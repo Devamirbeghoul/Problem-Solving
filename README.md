@@ -13,7 +13,7 @@ The repository includes solutions to problems from:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/problem-solving.git
+   git clone https://github.com/Devamirbeghoul/problem-solving.git
    ```
 2. Navigate to the specific problem folder.
 3. Review the solution code and comments for insights.
