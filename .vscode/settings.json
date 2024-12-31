@@ -6,6 +6,8 @@
         "string": "cpp",
         "system_error": "cpp",
         "xlocale": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "xlocmon": "cpp",
+        "cmath": "cpp"
     }
 }
