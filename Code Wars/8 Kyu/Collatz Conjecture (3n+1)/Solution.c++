@@ -1,0 +1,19 @@
+unsigned int hotpo(unsigned int n) {
+    
+    if (n == 0) return 0;
+
+    int Counter = 0 ;
+
+    while (n != 1) {
+
+        if (n % 2 == 0)
+            n /= 2 ;
+        else
+            n = 3 * n + 1 ;
+        
+        Counter++ ;
+    }
+
+    return Counter ;
+    
+}
