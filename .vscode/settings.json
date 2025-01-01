@@ -8,6 +8,8 @@
         "xlocale": "cpp",
         "iostream": "cpp",
         "xlocmon": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "utility": "cpp",
+        "algorithm": "cpp"
     }
 }
