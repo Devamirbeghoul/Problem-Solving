@@ -10,6 +10,8 @@
         "xlocmon": "cpp",
         "cmath": "cpp",
         "utility": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "fstream": "cpp",
+        "filesystem": "cpp"
     }
 }
