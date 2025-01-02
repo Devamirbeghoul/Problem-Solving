@@ -13,7 +13,7 @@ void CreateBasicFiles(string dirName) {
     MyTxt.open(dirName + "\\" + + "Question.txt" , ios::out) ;
 
     if (MyFile.is_open())
-        MyFile << "using namespace std ;" ;
+        MyFile << "using namespace std ;\n\n" ;
     
     MyFile.close() ;
 
