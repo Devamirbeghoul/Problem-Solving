@@ -12,6 +12,7 @@
         "utility": "cpp",
         "algorithm": "cpp",
         "fstream": "cpp",
-        "filesystem": "cpp"
+        "filesystem": "cpp",
+        "xutility": "cpp"
     }
 }
