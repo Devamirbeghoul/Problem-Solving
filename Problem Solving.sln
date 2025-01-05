@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code Wars", "Code Wars", "{813EB245-3C9F-4B63-9232-432DF4409268}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C#", "C#", "{9ED0D8AB-D1D1-4E68-A8F2-00D5348FFD4E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8 Kyu", "8 Kyu", "{8ED6CD26-AD0E-413F-BEEA-70D0875045BE}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CodeWars", "CodeWars", "{9870F994-1E5A-4063-993C-6145A4239577}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find the Slope", "Code Wars\8 Kyu\Find the Slope\Find the Slope.csproj", "{F6EE6820-141D-48D8-9024-8BD0BCA2515F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8 Kyu", "8 Kyu", "{E01C0A85-152F-4605-881F-D0ABCF563769}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find the Slope", "C#\CodeWars\8 Kyu\Find the Slope\Find the Slope.csproj", "{95F6D2B9-5594-48A2-8DA2-BF7F9F505316}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,19 +17,20 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F6EE6820-141D-48D8-9024-8BD0BCA2515F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F6EE6820-141D-48D8-9024-8BD0BCA2515F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F6EE6820-141D-48D8-9024-8BD0BCA2515F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F6EE6820-141D-48D8-9024-8BD0BCA2515F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F6D2B9-5594-48A2-8DA2-BF7F9F505316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F6D2B9-5594-48A2-8DA2-BF7F9F505316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F6D2B9-5594-48A2-8DA2-BF7F9F505316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F6D2B9-5594-48A2-8DA2-BF7F9F505316}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{8ED6CD26-AD0E-413F-BEEA-70D0875045BE} = {813EB245-3C9F-4B63-9232-432DF4409268}
-		{F6EE6820-141D-48D8-9024-8BD0BCA2515F} = {8ED6CD26-AD0E-413F-BEEA-70D0875045BE}
+		{9870F994-1E5A-4063-993C-6145A4239577} = {9ED0D8AB-D1D1-4E68-A8F2-00D5348FFD4E}
+		{E01C0A85-152F-4605-881F-D0ABCF563769} = {9870F994-1E5A-4063-993C-6145A4239577}
+		{95F6D2B9-5594-48A2-8DA2-BF7F9F505316} = {E01C0A85-152F-4605-881F-D0ABCF563769}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AFDC831D-8625-4ECA-9F53-1D6DD948DCA7}
+		SolutionGuid = {38223E91-87B2-4A2F-AA71-3AE69A92140D}
 	EndGlobalSection
 EndGlobal
