@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code Wars", "Code Wars", "{813EB245-3C9F-4B63-9232-432DF4409268}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8 Kyu", "8 Kyu", "{8ED6CD26-AD0E-413F-BEEA-70D0875045BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find the Slope", "Code Wars\8 Kyu\Find the Slope\Find the Slope.csproj", "{F6EE6820-141D-48D8-9024-8BD0BCA2515F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6EE6820-141D-48D8-9024-8BD0BCA2515F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EE6820-141D-48D8-9024-8BD0BCA2515F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EE6820-141D-48D8-9024-8BD0BCA2515F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EE6820-141D-48D8-9024-8BD0BCA2515F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8ED6CD26-AD0E-413F-BEEA-70D0875045BE} = {813EB245-3C9F-4B63-9232-432DF4409268}
+		{F6EE6820-141D-48D8-9024-8BD0BCA2515F} = {8ED6CD26-AD0E-413F-BEEA-70D0875045BE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFDC831D-8625-4ECA-9F53-1D6DD948DCA7}
+	EndGlobalSection
+EndGlobal
